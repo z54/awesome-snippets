@@ -2,7 +2,7 @@
 
 snippets 集合
 
-- [autohotkey_snippets](autohotkey_snippets.ahk)
+- [autohotkey_snippets](autohotkey_snippets.md)
 - [vscode_snippets](vscode_snippets.md)
 
 ## useful

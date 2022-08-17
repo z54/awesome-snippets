@@ -1,3 +1,10 @@
+---
+id: khspcat9i9p3prlmv2ouvzw
+title: Autohotkey_snippets
+desc: ''
+updated: 1660666548370
+created: 1660666548370
+---
 # autohotkey_snippets
 
 The ultimate automation scripting language for Windows.

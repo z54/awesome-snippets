@@ -1,10 +1,3 @@
----
-id: 1t73ap2vnszk7bk0l88tund
-title: Vscode_snippets
-desc: ''
-updated: 1660666548383
-created: 1660666548383
----
 # vscode_snippets
 
 ## usage
